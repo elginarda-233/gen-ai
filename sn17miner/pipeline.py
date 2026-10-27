@@ -29,7 +29,7 @@ from witness_client import WitnessError
 from . import prompts
 
 MODEL = "gpt-6.1-sol"
-CHAINS = 1
+CHAINS = 3
 REFINE_ROUNDS = 2
 MAX_REPAIRS = 2
 GEN_EFFORT = "high"
