@@ -30,7 +30,7 @@ from . import prompts
 
 MODEL = "gpt-6.1-sol"
 CHAINS = 3
-REFINE_ROUNDS = 2
+REFINE_ROUNDS = 3
 MAX_REPAIRS = 2
 GEN_EFFORT = "high"
 REFINE_EFFORT = "high"
